@@ -1,7 +1,7 @@
 [
   {
-    "title": "Dreame Aero Pro Wet/Dry Vacuum Mop",
-    "image": "images/vacuum-mop.jpg",
+    "title": "Dreame Aero Pro Wet/Dry Vacuum Mop Machine",
+    "image": "images/Honda Civic 11.jpg",
     "category": ["home"],
 	"main_link": "https://skyperspective.tech/products",
     "au_link": "https://www.amazon.com.au/dp/EXAMPLE1",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Smart Home Local Edge Controller",
-    "image": "images/edge-controller.jpg",
+    "image": "images/Pixel 9 34.jpg",
     "category": ["tech", "solar"],
 	"main_link": "https://skyperspective.tech/products",
     "au_link": "https://www.amazon.com.au/dp/EXAMPLE2",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Value-for-money Budget Samsung Tablet",
-    "image": "images/samsung-tablet.jpg",
+    "image": "images/Samsung Tab A9+ 23.jpg",
     "category": ["tech"],
 	"main_link": "https://skyperspective.tech/products",
     "au_link": "https://www.amazon.com.au/dp/EXAMPLE3",
