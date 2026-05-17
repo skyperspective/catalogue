@@ -11,7 +11,7 @@
     "image": "images/Pixel 9 34.jpg",
     "category": ["tech", "solar"],
 	"main_link": "https://skyperspective.tech/products",
-    "amazon_link": "https://www.amazon.com.au/dp/EXAMPLE2"
+    "amazon_link": ""
   },
   {
     "title": "Value-for-money Budget Samsung Tablet",
@@ -24,7 +24,7 @@
     "title": "Smart Home Local Edge Controller",
     "image": "images/Pixel 9 34.jpg",
     "category": ["tech", "solar"],
-	"main_link": "https://skyperspective.tech/products",
+	"main_link": "",
     "amazon_link": "https://www.amazon.com.au/dp/EXAMPLE2"
   },
   {
