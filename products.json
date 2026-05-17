@@ -30,5 +30,13 @@
 	"main_link": "https://skyperspective.tech/products",
     "au_link": "https://www.amazon.com.au/dp/EXAMPLE2",
     "us_link": "https://www.amazon.com/dp/EXAMPLE2"
-  }  
+  },
+  {
+    "title": "Value-for-money Budget Samsung Tablet",
+    "image": "images/Samsung Tab A9+ 23.jpg",
+    "category": ["tech"],
+	"main_link": "https://skyperspective.tech/products",
+    "au_link": "https://www.amazon.com.au/dp/EXAMPLE3",
+    "us_link": "https://www.amazon.com/dp/EXAMPLE3"
+  }
 ]
