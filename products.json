@@ -27,7 +27,7 @@
     "title": "Value-for-money Budget Samsung Tablet that has a super long title",
     "description": "This is a bit of sentence, that encourages the viewer to action on this product.",
     "image": "images/Samsung Tab A9+ 23.jpg",
-    "category": ["tech","smarthome"],
+    "category": ["tech","smart-home"],
     "main_link": "https://skyperspective.tech/products",
     "amazon_link": "https://www.amazon.com.au/dp/EXAMPLE3"
   },
@@ -35,7 +35,7 @@
     "title": "Smart Home Local Edge Controller",
     "description": "This is a shorter action on this product.",
     "image": "images/Pixel 9 34.jpg",
-    "category": ["tech", "solar"],
+    "category": ["smart-home"],
     "main_link": "",
     "amazon_link": "https://www.amazon.com.au/dp/EXAMPLE2"
   },
