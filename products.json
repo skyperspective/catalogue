@@ -1,11 +1,11 @@
 [
   {
-    "title": "Dreame Aero Pro Wet/Dry Vacuum Mop Machine",
+    "title": "Value-for-money Budget Samsung Tablet that has a super long title",
     "description": "This is a bit of sentence, that encourages the viewer to action on this product.",
-    "image": "images/Honda Civic 11.jpg",
-    "category": ["homeware"],
+    "image": "images/Samsung Tab A9+ 23.jpg",
+    "category": ["smart home"],
     "main_link": "https://skyperspective.tech/products",
-    "amazon_link": "https://www.amazon.com.au/dp/EXAMPLE1"
+    "amazon_link": "https://www.amazon.com.au/dp/EXAMPLE3"
   },
   {
     "title": "Logitech Signature M650 Mouse",
@@ -24,11 +24,11 @@
     "amazon_link": "https://amzn.to/4nDiHsR"
   },
   {
-    "title": "Value-for-money Budget Samsung Tablet that has a super long title",
-    "description": "This is a bit of sentence, that encourages the viewer to action on this product.",
-    "image": "images/Samsung Tab A9+ 23.jpg",
-    "category": ["smart home"],
-    "main_link": "https://skyperspective.tech/products",
-    "amazon_link": "https://www.amazon.com.au/dp/EXAMPLE3"
+    "title": "Tineco iFloor Wet/Dry Vacuum Cleaner",
+    "description": "Finally a machine that can Wet mop and Vacuum at the same time",
+    "image": "images/Tineco iFloor.jpg",
+    "category": ["homeware"],
+    "main_link": "",
+    "amazon_link": "https://amzn.to/4fvdgKg"
   }
 ]
