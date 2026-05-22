@@ -59,8 +59,16 @@
     "title": "TP-Link Tapo C420 Security Camera",
     "description": "2K QHD Outdoor Wireless Security Camera. Colour Night Vision",
     "image": "images/Tapo C420.jpg",
-    "category": ["smart home"],
+    "category": ["tect", "smart home"],
     "main_link": "",
     "amazon_link": "https://amzn.to/4v3pFdc"
+  },
+  {
+    "title": "Samsung Galaxy Tab A11+",
+    "description": "Feature packed entry level table.",
+    "image": "images/Galaxy Tab A11 plus.jpg",
+    "category": ["tech", "mobile"],
+    "main_link": "",
+    "amazon_link": "https://amzn.to/4wzXwfc"
   }
 ]
