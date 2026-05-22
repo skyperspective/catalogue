@@ -19,13 +19,13 @@
     "title": "Google Pixel 10 Pro",
     "description": "The PRO phone with a small form factor. 6.3 inches.",
     "image": "images/Pixel.jpg",
-    "category": ["tech","mobile", "portable"],
+    "category": ["tech","mobile"],
     "main_link": "",
     "amazon_link": "https://amzn.to/4nDiHsR"
   },
   {
     "title": "BYD Seal & Sealion 6 Dashcam",
-    "description": "This BYD Dashcam saved my insurance claim. 5% Discount Code:skyperspective",
+    "description": "This BYD Dashcam saved my insurance claim. <b>5% Discount Code: skyperspective</b>",
     "image": "images/BYD Dashcam.jpg",
     "category": ["ev-accessories"],
     "main_link": "https://www.topbyd.com/en-au/products/byd-atto-3-vehicle-mounted-dash-cam?ref=gyujntzy",
@@ -35,21 +35,21 @@
     "title": "Soundpeats Air 5",
     "description": "Very comfortable earbuds, good audio and voice call quality.",
     "image": "images/Soundpeats Air 5.jpg",
-    "category": ["tech","portable", "mobile", "edc"],
+    "category": ["tech","edc", "mobile"],
     "main_link": "",
-    "amazon_link": ""
+    "amazon_link": "https://amzn.to/3LKvKtL"
   },
   {
-    "title": "Logitech Signature M650 Mouse",
-    "description": "My favourite mouse in 2026. Built in horizontal scroll.",
-    "image": "images/Logitech M650 43.jpg",
-    "category": ["tech","desk"],
-    "main_link": "",
-    "amazon_link": "https://amzn.to/4djYJzV"
+    "title": "WUBEN G5 Rechargeable Flashlight",
+    "description": "Compact but super bright Flashlight. Colour blinking mode. Belt clip",
+    "image": "images/Wuben G5.jpg",
+    "category": ["edc","gadget", "mobile"],
+    "main_link": "https://www.wubenlight.com/products/wuben-g5-edc-light?ref=wrbkgirk",
+    "amazon_link": "https://amzn.to/4wFwao9"
   },
   {
-    "title": "Google Pixel 10 Pro",
-    "description": "The PRO phone with a small form factor. 6.3 inches.",
+    "title": "",
+    "description": "",
     "image": "images/Pixel.jpg",
     "category": ["tech","mobile", "portable"],
     "main_link": "https://www.topbyd.com/en-au/products/byd-atto-3-vehicle-mounted-dash-cam?ref=gyujntzy",
