@@ -27,7 +27,7 @@
     "title": "BYD Seal & Sealion 6 Dashcam",
     "description": "This BYD Dashcam saved my insurance claim. 5% Discount Code:skyperspective",
     "image": "images/BYD Dashcam.jpg",
-    "category": ["car ev"],
+    "category": ["ev-accessories"],
     "main_link": "https://www.topbyd.com/en-au/products/byd-atto-3-vehicle-mounted-dash-cam?ref=gyujntzy",
     "amazon_link": ""
   },
@@ -35,9 +35,9 @@
     "title": "Soundpeats Air 5",
     "description": "Very comfortable earbuds, good audio and voice call quality.",
     "image": "images/Soundpeats Air 5.jpg",
-    "category": ["tech","portable", "mobile"],
+    "category": ["tech","portable", "mobile", "edc"],
     "main_link": "",
-    "amazon_link": "https://amzn.to/4fvdgKg"
+    "amazon_link": ""
   },
   {
     "title": "Logitech Signature M650 Mouse",
