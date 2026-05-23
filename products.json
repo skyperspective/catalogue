@@ -1,12 +1,48 @@
 [
   {
+    "title": "BYD Seal & Sealion 6 Dashcam",
+    "description": "This test card. <b>5% Discount Code: skyperspective</b>",
+    "image": "images/BYD Dashcam.jpg",
+    "category": ["ev-accessories"],
+    "main_link": "https://www.topbyd.com/en-au/products/byd-atto-3-vehicle-mounted-dash-cam?ref=gyujntzy",
+    "amazon_us_link": "https://skyperspective.tech",
+    "amazon_au_link": ""
+  },
+  {
+    "title": "BYD Seal & Sealion 6 Dashcam",
+    "description": "This test card. <b>5% Discount Code: skyperspective</b>",
+    "image": "images/BYD Dashcam.jpg",
+    "category": ["ev-accessories"],
+    "main_link": "https://www.topbyd.com/en-au/products/byd-atto-3-vehicle-mounted-dash-cam?ref=gyujntzy",
+    "amazon_us_link": "https://skyperspective.tech",
+    "amazon_au_link": "https://skyperspective.tech"
+  },
+  {
+    "title": "BYD Seal & Sealion 6 Dashcam",
+    "description": "This test card. <b>5% Discount Code: skyperspective</b>",
+    "image": "images/BYD Dashcam.jpg",
+    "category": ["ev-accessories"],
+    "main_link": "https://www.topbyd.com/en-au/products/byd-atto-3-vehicle-mounted-dash-cam?ref=gyujntzy",
+    "amazon_us_link": "",
+    "amazon_au_link": "https://skyperspective.tech"
+  },
+  {
+    "title": "BYD Seal & Sealion 6 Dashcam",
+    "description": "This test card. <b>5% Discount Code: skyperspective</b>",
+    "image": "images/BYD Dashcam.jpg",
+    "category": ["ev-accessories"],
+    "main_link": "",
+    "amazon_us_link": "",
+    "amazon_au_link": "https://skyperspective.tech"
+  },
+  {
     "title": "Tineco iFloor Wet/Dry Vacuum Cleaner",
     "description": "Finally a machine that can Wet mop and Vacuum at the same time",
     "image": "images/Tineco iFloor.jpg",
     "category": ["homeware"],
     "main_link": "",
     "amazon_us_link": "https://amzn.to/4fvdgKg",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   },
   {
     "title": "Logitech Signature M650 Mouse",
@@ -15,7 +51,7 @@
     "category": ["tech","desk"],
     "main_link": "",
     "amazon_us_link": "https://amzn.to/4djYJzV",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   },
   {
     "title": "Google Pixel 10 Pro",
@@ -24,7 +60,7 @@
     "category": ["tech","mobile"],
     "main_link": "",
     "amazon_us_link": "https://amzn.to/4nDiHsR",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   },
   {
     "title": "BYD Seal & Sealion 6 Dashcam",
@@ -32,8 +68,8 @@
     "image": "images/BYD Dashcam.jpg",
     "category": ["ev-accessories"],
     "main_link": "https://www.topbyd.com/en-au/products/byd-atto-3-vehicle-mounted-dash-cam?ref=gyujntzy",
-    "amazon_us_link": "",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_us_link": "https://skyperspective.tech",
+    "amazon_au_link": ""
   },
   {
     "title": "Soundpeats Air 5",
@@ -42,7 +78,7 @@
     "category": ["tech","edc", "mobile"],
     "main_link": "",
     "amazon_us_link": "https://amzn.to/3LKvKtL",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   },
   {
     "title": "WUBEN G5 Rechargeable Flashlight",
@@ -51,7 +87,7 @@
     "category": ["edc","gadget", "mobile"],
     "main_link": "https://www.wubenlight.com/products/wuben-g5-edc-light?ref=wrbkgirk",
     "amazon_us_link": "https://amzn.to/4wFwao9",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   },
   {
     "title": "LitONES H01 Soft Glow Desk Lamp",
@@ -60,7 +96,7 @@
     "category": ["desk"],
     "main_link": "https://bit.ly/4pV7Dqt",
     "amazon_us_link": "https://www.amazon.com/dp/B0DFGNNR7D?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.133VT2IB1ISVK&linkCode=tr1&tag=1skyperspecti-20&linkId=amzn1.campaign.133VT2IB1ISVK_1779449200005",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   },
   {
     "title": "TP-Link Tapo C420 Security Camera",
@@ -69,7 +105,7 @@
     "category": ["tect", "smart home"],
     "main_link": "",
     "amazon_us_link": "https://amzn.to/4v3pFdc",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   },
   {
     "title": "Samsung Galaxy Tab A11+",
@@ -78,6 +114,6 @@
     "category": ["tech", "mobile"],
     "main_link": "",
     "amazon_us_link": "https://amzn.to/4wzXwfc",
-	"amazon_au_link": "https://amzn.to/4fvdgKg"
+    "amazon_au_link": ""
   }
 ]
