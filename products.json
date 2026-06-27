@@ -12,6 +12,26 @@
     "amazon_au_link": "https://amzn.to/3RUTkXC"
   },
   {
+    "title": "Logitech Signature M750 Mouse",
+    "description": "Multi device mouse with action button & horizontal scroll",
+    "image": "images/Logitech M750.jpg",
+    "category": ["tech","desk"],
+    "main_link": "",
+    "main_link_brand": "",
+    "amazon_us_link": "https://amzn.to/4eD2xeW",
+    "amazon_au_link": ""
+  },
+  {
+    "title": "Logitech Signature M650 Mouse",
+    "description": "My favourite mouse in 2026. Built in horizontal scroll.",
+    "image": "images/Logitech M650 43.jpg",
+    "category": ["tech","desk"],
+    "main_link": "",
+    "main_link_brand": "",
+    "amazon_us_link": "https://amzn.to/4djYJzV",
+    "amazon_au_link": ""
+  },
+  {
     "title": "Lenovo Chromebook",
     "description": "Chromebook never had a virus. Suitable as a second computer for secure internet banking.",
     "image": "images/Lenovo Chromebook 11.jpg",
@@ -20,6 +40,16 @@
     "main_link_brand": "",
     "amazon_us_link": "https://amzn.to/3Q0fOWG",
     "amazon_au_link": "https://amzn.to/4x8M8Hu"
+  },
+  {
+    "title": "Logitech Signature M650 L Mouse",
+    "description": "Large size of the M650. Suitable for larger hands.",
+    "image": "images/Logitech M650L.jpg",
+    "category": ["tech","desk"],
+    "main_link": "",
+    "main_link_brand": "",
+    "amazon_us_link": "https://amzn.to/4djYJzV",
+    "amazon_au_link": "https://link.amazon/B0elJuqcq"
   },
   {
     "title": "Soundpeats Clip1",
