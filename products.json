@@ -94,6 +94,16 @@
     "amazon_au_link": ""
   },
   {
+    "title": "Tefal Home Chef Multicooker",
+    "description": "Pressure Cook, Slow Cook, we use this every week.",
+    "image": "images/Tefal MultiCooker.jpg",
+    "category": ["homeware","kitchen"],
+    "main_link": "",
+    "main_link_brand": "",
+    "amazon_us_link": "",
+    "amazon_au_link": "https://link.amazon/B00w9icGJ"
+  },
+  {
     "title": "BYD Seal & Sealion 6 Dashcam",
     "description": "This BYD Dashcam saved my insurance claim. <b>5% Discount Code: sky5off</b>",
     "image": "images/BYD Dashcam.jpg",
