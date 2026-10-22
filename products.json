@@ -1,5 +1,29 @@
 [
   {
+    "title": "WUBEN X4 Rechargeable Torch",
+    "description": "Compact EDC torch, up to 1500 lumens with RGB light. Rugged and pocketable.",
+    "image": "images/Wuben X4.jpg",
+    "category": ["edc","gadget", "mobile"],
+    "youtube_link": "https://youtu.be/sXAq2dmcv1I",
+    "youtube_link_text": "Watch YouTube Video",
+    "main_link": "",
+    "main_link_brand": "",
+    "amazon_us_link": "https://amzn.to/4qQO6cR",
+    "amazon_au_link": "https://link.amazon/B0eZL8San"
+  },
+  {
+    "title": "Brother HL-L2445DW Wireless Printer",
+    "description": "Reliable wireless laser printer. Print from any device on your WiFi.",
+    "image": "images/Brother HL-L2445DW.jpg",
+    "category": ["tech","desk"],
+    "youtube_link": "https://youtu.be/cxacA9vEk_I",
+    "youtube_link_text": "Watch YouTube Video",
+    "main_link": "",
+    "main_link_brand": "",
+    "amazon_us_link": "",
+    "amazon_au_link": "https://link.amazon/B04gBA04b"
+  },
+  {
     "title": "Oil Spray for Air Fryer",
     "description": "Perfect for health-conscious cooking, this durable glass sprayer delivers a fine, even mist that uses less oil.",
     "image": "images/Oil Spray 4-3.jpg",
